@@ -1,0 +1,1 @@
+[{"inputs":[],"name":"addNum","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"getNum","outputs":[{"internalType":"uint64","name":"","type":"uint64"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"num","outputs":[{"internalType":"uint64","name":"","type":"uint64"}],"stateMutability":"view","type":"function"}]
